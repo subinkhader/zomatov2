@@ -11,3 +11,10 @@
 .cur-po{
     cursor: pointer;
 }
+.collection-title{
+    font-size: 30px;
+    color: var(--color-text);
+    margin-bottom: 32px;
+    font-weight: 600;
+
+}
